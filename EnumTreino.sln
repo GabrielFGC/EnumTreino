@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTreino", "EnumTreino\EnumTreino.csproj", "{FB831297-1CDC-4B7B-A591-8F7E6CEC2E68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB831297-1CDC-4B7B-A591-8F7E6CEC2E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB831297-1CDC-4B7B-A591-8F7E6CEC2E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB831297-1CDC-4B7B-A591-8F7E6CEC2E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB831297-1CDC-4B7B-A591-8F7E6CEC2E68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60857A8D-330E-4F35-97D9-D76ADC788FC3}
+	EndGlobalSection
+EndGlobal

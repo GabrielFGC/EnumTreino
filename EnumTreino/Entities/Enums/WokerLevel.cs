@@ -4,7 +4,10 @@ using System.Text;
 
 namespace EnumTreino.Entities.Enums
 {
-    class WokerLevel
+    enum WokerLevel : int
     {
+        Junior = 0,
+        MidLevel = 1,
+        Senior = 2
     }
 }
